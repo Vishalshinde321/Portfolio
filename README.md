@@ -10,7 +10,7 @@
 │   └── style.css
 ├── /js/
 │   └── script.js
-├── /images/
+├── /assets/
 │   └── [your images here]
 
 
