@@ -17,3 +17,27 @@ A fully responsive personal portfolio website built using HTML, CSS, and JavaScr
 
 
 ```
+##  Features
+- **Fully responsive layout (desktop, tablet, mobile)**
+
+- **Smooth scrolling navigation**
+
+- **Interactive project section**
+
+- **Clean and minimal design**
+
+- **Built using only HTML, CSS, and vanilla JavaScript**
+
+- **Contact form (static or connected to a service like Formspree/EmailJS)g**
+  
+- **Animated transitions and hover effectsn**
+
+##  Technologies Used
+- HTML5
+- CSS3 (Flexbox, Grid, Media Queries)
+- JavaScript (DOM Manipulation, Event Handling)
+
+## 📸 Demo
+
+[Add a live link here if deployed — GitHub Pages, Netlify, etc.]  
+
