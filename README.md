@@ -1,6 +1,8 @@
 # Responsive Portfolio 
 ## 📂 Project Structure (Frontend)
 
+```bash
+
 /portfolio/
 │
 ├── index.html
